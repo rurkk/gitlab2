@@ -1,0 +1,3 @@
+[submodule "subrep2"]
+	path = subrep2
+	url = https://github.com/rurkk/subrep2
